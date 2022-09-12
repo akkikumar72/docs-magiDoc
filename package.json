@@ -1,7 +1,7 @@
 {
   "name": "graphql-docs",
   "version": "0.0.0",
-  "description": "Deepwater's GraphQl Docs",
+  "description": "GraphQl Docs",
   "scripts": {
     "build": "run-s generate:swap generate:oracle generate:accounting",
     "preview": "magidoc preview",
